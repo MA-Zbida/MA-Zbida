@@ -19,18 +19,17 @@ From pixel-level vision models to goal-conditioned agents — end-to-end.
 
 | Domain | Focus |
 |--------|-------|
-| 🎯 **Goal-Conditioned RL** | Agents that pursue language and embedding-specified goals across dynamic environments |
-| 👁️ **Computer Vision** | Detection, segmentation, and perception systems for real-world deployment |
-| 🧠 **LLMs & RAG** | Retrieval-augmented pipelines, fine-tuning, and production-grade LLM systems |
-| 🏗️ **Full-Stack AI** | End-to-end AI products — model to interface, FastAPI to React |
+| **Goal-Conditioned RL** | Agents that pursue language and embedding-specified goals across dynamic environments |
+| **Computer Vision** | Detection, segmentation, and perception systems for real-world deployment |
+| **LLMs & RAG** | Retrieval-augmented pipelines, fine-tuning, and production-grade LLM systems |
+| **Full-Stack AI** | End-to-end AI products — model to interface, FastAPI to React |
 
 ---
 
 ## Currently
 
-- 🔬 Researching **goal-conditioned agents** with universal value function approximators (UVFA)
-- 🛠️ Building a **multimodal RAG system** that reasons over images and documents
-- 📖 Reading: *Offline Reinforcement Learning* + *Vision Transformers in the Wild*
+- Building **goal conditioned agent under a hierarchical policy** for the game Brawlhalla.
+- Working on a **web developpment** with **AI** integrated. 
 
 ---
 
@@ -57,11 +56,11 @@ From pixel-level vision models to goal-conditioned agents — end-to-end.
 
 | Project | Domain | Description |
 |---------|--------|-------------|
-| [🎯 GoalNav-RL](#) | Goal-Conditioned RL | Sparse-reward navigation agent with HER + goal encoder |
-| [👁️ VisionCore](#) | Computer Vision | Real-time defect detection pipeline with YOLOv8 |
-| [🧠 RAGForge](#) | LLMs | Production RAG system with hybrid retrieval and eval suite |
-| [🏗️ AICanvas](#) | Full-Stack AI | Deployed AI web app — FastAPI + React + custom model |
-| [🌐 VisionLLM](#) | Multimodal | Vision-language agent that sees, reasons, and acts |
+| [GoalNav-RL](#) | Goal-Conditioned RL | Sparse-reward navigation agent with HER + goal encoder |
+| [VisionCore](#) | Computer Vision | Real-time defect detection pipeline with YOLOv8 |
+| [RAGForge](#) | LLMs | Production RAG system with hybrid retrieval and eval suite |
+| [AICanvas](#) | Full-Stack AI | Deployed AI web app — FastAPI + React + custom model |
+| [VisionLLM](#) | Multimodal | Vision-language agent that sees, reasons, and acts |
 
 ---
 
@@ -81,7 +80,6 @@ From pixel-level vision models to goal-conditioned agents — end-to-end.
 > I occasionally write about things I've built, broken, and figured out.
 
 - [How I trained a goal-conditioned agent with sparse rewards](#) — *Medium*
-- [RAG is not just retrieval — here's what most tutorials miss](#) — *Substack*
 
 ---
 
