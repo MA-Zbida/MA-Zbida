@@ -19,7 +19,7 @@ From pixel-level vision models to goal-conditioned agents — end-to-end.
 
 | Domain | Focus |
 |--------|-------|
-| **Goal-Conditioned RL** | Agents that pursue language and embedding-specified goals across dynamic environments |
+| **Goal-Conditioned RL** | Agents that pursue concepts and embedding-specified goals across dynamic environments |
 | **Computer Vision** | Detection, segmentation, and perception systems for real-world deployment |
 | **LLMs & RAG** | Retrieval-augmented pipelines, fine-tuning, and production-grade LLM systems |
 | **Full-Stack AI** | End-to-end AI products — model to interface, FastAPI to React |
