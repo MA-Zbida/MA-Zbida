@@ -93,16 +93,6 @@ to goal-conditioned hierarchical RL and production LLM pipelines.
  Baccalaureate in Physical Sciences — Hassan II HS       (2022 · With Highest Honors)
 ```
 
----
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MA-Zbida&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MA-Zbida&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
-
-</div>
-
----
 
 <div align="center">
 
